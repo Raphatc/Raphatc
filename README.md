@@ -39,5 +39,5 @@ Sou apaixonado por construir soluções completas, desde a arquitetura do banco 
 - Nos momentos de lazer, gosto de configurar servidores e mods no Minecraft, explorar a cena de homebrew de consoles e testar receitas novas na cozinha.
 
 ### 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaeltorquato-dev/)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafa02102006@gmail.com)
