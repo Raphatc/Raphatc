@@ -2,9 +2,9 @@
   <h1>RAFAEL TORQUATO</h1>
   <p><b>BACKEND • FULL STACK • LINUX • HARDWARE</b></p>
   <p>
-    <a href="https://github.com/seu-usuario"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="https://linkedin.com/in/seu-perfil"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:seu-email@gmail.com"><img src="https://img.shields.io/badge/ACCESS_PORTFOLIO-FF0000?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://github.com/Raphatc"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://linkedin.com/in/rafaeltorquato-dev/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:rafa02102006@gmail.com"><img src="https://img.shields.io/badge/ACCESS_PORTFOLIO-FF0000?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
   </p>
 </div>
 
@@ -99,8 +99,8 @@ interests:
 ### `> github --analytics`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Raphatc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphatc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 <br>
@@ -115,7 +115,7 @@ cd portfolio && ./build --secure --reliable
 
 <div align="center">
   <p><b>Aberto a conexões com programadores, entusiastas de hardware e criadores de tecnologia.</b></p>
-  <a href="https://linkedin.com/in/seu-perfil"><img src="https://img.shields.io/badge/LET'S_CONNECT-FF0000?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/rafaeltorquato-dev/"><img src="https://img.shields.io/badge/LET'S_CONNECT-FF0000?style=for-the-badge&logoColor=white" /></a>
   <br><br>
   <code>[ EOF ] — THE SYSTEM NEVER STOPS LEARNING</code>
 </div>
