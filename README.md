@@ -31,3 +31,5 @@ interests:
   - backend engineering (Java, C++, Rust)
   - hardware maintenance and server configuration
   - game servers and console homebrew
+
+### '> systemctl status rafael.service'
