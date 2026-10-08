@@ -27,7 +27,7 @@
 identity:
   name: Rafael Torquato de Oliveira
   location: Gama, DF — Brazil
-  education: Software Engineering + Veterinary Medicine @ UNICEPLAC
+  education: Software Engineering @ UNICEPLAC
   role: Backend & Full Stack Developer
   mindset: "Build systems that scale, survive, and evolve"
 
@@ -59,7 +59,7 @@ interests:
       Signal: ONLINE // NEVER STOP LEARNING
 ```
 
-- 🎓 Estudante universitário em Engenharia de Software e Medicina Veterinária no UNICEPLAC.
+- 🎓 Estudante universitário em Engenharia de Software e no UNICEPLAC.
 - ⚙️ Construindo APIs REST, backends robustos e aplicações web com foco em arquitetura.
 - 🐧 Usuário diário de Linux com ambiente Fedora + WSL para desenvolvimento e automação.
 - 🔧 Interessado em manutenção de hardware, servidores, otimização de ambientes e infraestrutura.
